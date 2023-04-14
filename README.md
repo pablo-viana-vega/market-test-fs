@@ -1,9 +1,9 @@
 # Teste Dev Fullstack
 
-Este projeto é desenvolvido com Node.js, React.js, tailwindCSS php8 e postgeSQL15.
+Este projeto é desenvolvido com Node.js, React.js, tailwindCSS php8 e postgreSQL15.
 Desafio técnico.
-Foram escolhidos esses frameworks front-end, pois o react, otimiza muito o front-end.
-A escolha do tailwindCSS é porque ele faz um build otimizado do CSS, escaneando todos os arquivos do projeto e pegando na sua base de classes customizadas, somente aquelo que é utilizado no projeto. Gerando assim um CSS menor para ser carregado no projeto.
+Foram escolhidos esses frameworks front-end, pois o react otimiza muito o front-end.
+A escolha do tailwindCSS é porque ele faz um build otimizado do CSS, escaneando todos os arquivos do projeto e pegando na sua base de classes customizadas, somente aquilo que é utilizado. Gerando assim um CSS menor para ser carregado no projeto.
 
 ## Instalação
 
@@ -24,4 +24,4 @@ Criei este script para um build otimizado em produção:
 
 O projeto conta com o arquivo SQL do banco para ser instalado.
 Conta também ja com o arquivo .env para facilitar a conexão.
-Os arquivos de frontend então na pasta src, onde o arquivo index.css serve para colocar o CSS customizado que vai ser otimizado no build final.
+Os arquivos de frontend estão na pasta src, onde o arquivo index.css serve para colocar o CSS customizado que vai ser otimizado no build final.
