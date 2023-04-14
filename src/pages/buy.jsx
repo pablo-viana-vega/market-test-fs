@@ -20,7 +20,7 @@ function Buy() {
           }, {})
         );
       } else {
-        console.log("Não há produtos cadastrados.");
+       alert("Não há produtos cadastrados.");
       }
     };
 
@@ -30,7 +30,7 @@ function Buy() {
         console.log(res);
         setTypes(res.data.types);
       } else {
-        console.log("error");
+        alert("error");
       }
     };
 
