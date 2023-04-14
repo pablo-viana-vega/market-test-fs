@@ -24,4 +24,4 @@ Criei este script para um build otimizado em produção:
 
 O projeto conta com o arquivo SQL do banco para ser instalado.
 Conta também ja com o arquivo .env para facilitar a conexão.
-Os arquivos de frontend estão na pasta src, onde o arquivo index.css serve para colocar o CSS customizado que vai ser otimizado no build final.
+Os arquivos de front-end estão na pasta src, onde o arquivo index.css serve para colocar o CSS customizado que vai ser otimizado no build final.
