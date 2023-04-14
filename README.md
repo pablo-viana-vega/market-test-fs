@@ -14,7 +14,7 @@ A escolha do tailwindCSS é porque ele faz um build otimizado do CSS, escaneando
 
 O Projeto roda na pasta PROD, então você deve entrar nela com `cd/prod`.
 Dentro da pasta rodar o comando do php php -S localhost:8080.
-Nesta pasta consta a pasta API que tem o back-end do projeto em php puto com PDO.
+Nesta pasta consta a pasta API que tem o back-end do projeto em php puro com PDO.
 Sempre que for atualizado o frontend deve ser minificado para uma versão de produção otimizada
 Utilize o comando "npm run build".
 Criei este script para um build otimizado em produção:
@@ -24,4 +24,4 @@ Criei este script para um build otimizado em produção:
 
 O projeto conta com o arquivo SQL do banco para ser instalado.
 Conta também ja com o arquivo .env para facilitar a conexão.
-Os arquivos de frontend então na pasta src, onde o arquivo index.css serve para colocar o CSS cusromizado que vai ser otimizado no build final.
+Os arquivos de frontend então na pasta src, onde o arquivo index.css serve para colocar o CSS customizado que vai ser otimizado no build final.
