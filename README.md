@@ -8,7 +8,7 @@ A escolha do tailwindCSS é porque ele faz um build otimizado do CSS, escaneando
 ## Instalação
 
 1. Faça Clone do repositório.
-2. Rode `npm install` Para Instalat as dependências.
+2. Rode `npm install` Para Instalar as dependências.
 
 ## Usage
 
