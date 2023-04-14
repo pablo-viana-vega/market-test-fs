@@ -1,6 +1,6 @@
 # Teste Dev Fullstack
 
-Este projeto é desenvolvido com Node.js, React.js, tailwindCSS php8 e postgreSQL15.
+Este projeto é desenvolvido com Node.js19, React.js, tailwindCSS php8 e postgreSQL15.
 Desafio técnico.
 Foram escolhidos esses frameworks front-end, pois o react otimiza muito o front-end.
 A escolha do tailwindCSS é porque ele faz um build otimizado do CSS, escaneando todos os arquivos do projeto e pegando na sua base de classes customizadas, somente aquilo que é utilizado. Gerando assim um CSS menor para ser carregado no projeto.
